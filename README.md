@@ -1,4 +1,4 @@
-# my-portfolio
+# my-company
 pt:
 No ficheiro minha_empresa, eu apresento alguns insights extraídos do Power BI apartir dos dados compilados no SSMS.
 In the file minha_empresa, I present some insights extracted from Power BI from a Database built in SSMS.
